@@ -68,7 +68,7 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
     <td align="center">
       GitHub
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sharveshl&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
@@ -80,14 +80,14 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
     <td align="center">
       Top Languages
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharvzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharveshl&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center">
       GitHub Trophies
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=Sharvzz&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sharveshl&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     </td>
     <td align="center">
       Random Dev Quote
@@ -102,7 +102,7 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sharvzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sharveshl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
