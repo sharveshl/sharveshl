@@ -75,7 +75,7 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
     <td align="center">
       GitHub Streak
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sharvzz&theme=monokai&hide_border=false" alt="GitHub Streak Stats" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sharveshl&theme=monokai&hide_border=false" alt="GitHub Streak Stats" />
     </td>
     <td align="center">
       Top Languages
