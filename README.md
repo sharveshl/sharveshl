@@ -63,36 +63,36 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
     <td align="center">
       LeetCode
       <br/>
-      <img src="https://leetcard.jacoblin.cool/sharveshl?theme=dark&font=Caladea" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/sharveshl?theme=dark&font=Caladea" />
     </td>
     <td align="center">
       GitHub
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=sharveshl&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sharveshl&show_icons=true&theme=monokai&count_private=true" />
     </td>
   </tr>
   <tr>
     <td align="center">
       GitHub Streak
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sharveshl&theme=monokai&hide_border=false" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=sharveshl&theme=monokai" />
     </td>
     <td align="center">
       Top Languages
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharveshl&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharveshl&layout=compact&theme=monokai" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      Geeks For Geeks
+      GFG Stats
       <br/>
-      <img src="https://gfgstatscard.vercel.app/<sharveshl>" alt="GFG stats" />
+      <img src="https://gfgstatscard.vercel.app/sharveshl" />
     </td>
     <td align="center">
-      Random Dev Quote
+      Dev Quote
       <br/>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
     </td>
   </tr>
 </table>
