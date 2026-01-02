@@ -85,9 +85,9 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
   </tr>
   <tr>
     <td align="center">
-      GitHub Trophies
+      Geeks For Geeks
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=sharveshl&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+      <img src="https://gfgstatscard.vercel.app/<sharveshl>" alt="GFG stats" />
     </td>
     <td align="center">
       Random Dev Quote
