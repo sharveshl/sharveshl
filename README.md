@@ -68,7 +68,7 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
     <td align="center">
       GitHub
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=sharveshl&show_icons=true&theme=monokai&count_private=true" />
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&fontFamily=&preferLogin=false">    <img  alt="sharveshl's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sharveshl?cardType=github&theme=gotham&fontFamily=&preferLogin=false" />  </a>
     </td>
   </tr>
   <tr>
