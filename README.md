@@ -80,7 +80,7 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
     <td align="center">
       Trophies
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=sharveshl&theme=light"> </img>
+      <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3"> </img> 
     </td>
   </tr>
   <tr>
