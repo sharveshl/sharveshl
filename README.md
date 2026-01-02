@@ -15,13 +15,13 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
 
 ---
 
-### 🌐 Socials
+### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvesh-l) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loganathansharvesh14@gmail.com) 
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 #### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -56,7 +56,7 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ---
-### 📊 My Coding Stats
+### My Coding Stats
 
 <table>
   <tr>
