@@ -78,9 +78,9 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
       <img src="https://streak-stats.demolab.com?user=sharveshl&theme=monokai" />
     </td>
     <td align="center">
-      Top Languages
+      Trophies
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharveshl&layout=compact&theme=monokai" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sharveshl&theme=light"> </img>
     </td>
   </tr>
   <tr>
@@ -100,17 +100,4 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
 
 
 ---
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sharveshl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sharvzz&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sharvzz&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
