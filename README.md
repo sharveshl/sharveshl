@@ -97,6 +97,6 @@ I enjoy **competitive programming** and creative projects like **FinTrack** (per
   </tr>
 </table>
 
-<img src="./codolio-card.png" alt="Codolio Stats" width="300" height="500" />
+<img src="./Codolio-card.png" alt="Codolio Stats" width="300" height="500" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
